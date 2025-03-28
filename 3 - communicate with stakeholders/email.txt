@@ -1,0 +1,18 @@
+Subject: Data Quality Concerns and Insights from Recent Investigation
+
+Good afternoon [Business Leader],
+
+After reviewing our current data, I’ve identified a few concerns regarding data quality. The key issues are as follows:
+•	Some User IDs in the transaction table are not defined in the user table.
+•	There are missing barcodes for both transactions and products.
+•	Approximately 27% of products are missing brand information.
+
+Additionally, I’d appreciate some clarification on the transactions table. Specifically, I’m unsure why we only have either quantity or sales recorded for each transaction, rather than both being present on the same row.
+
+One interesting trend I’ve observed is that Tostitos is the leading brand in the Dips & Salsa category, with 150% more receipts than the next closest brand, Pace.
+
+To move forward, I would need more insight into the missing data fields so I can better assess how to clean and utilize the data more effectively.
+
+Thank you for your attention to this matter.
+Best regards,
+Amanda
